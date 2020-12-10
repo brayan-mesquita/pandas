@@ -1,2 +1,0 @@
-# pandas
-Aprendizado em Pandas
